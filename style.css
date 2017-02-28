@@ -44,7 +44,7 @@ body {
 body {
   position: relative;
   line-height: 1;
-  background-color: #fff;
+  background-color: #333;
   color: #000; }
 
 /*********************************************
@@ -151,7 +151,7 @@ body {
   color: #17ff2e; }
 
 .reveal .slides section .fragment.highlight-blue.visible {
-  color: #1b91ff; }
+  color: #1e6ec1; }
 
 .reveal .slides section .fragment.highlight-current-red.current-fragment {
   color: #ff2c2d; }
@@ -160,7 +160,7 @@ body {
   color: #17ff2e; }
 
 .reveal .slides section .fragment.highlight-current-blue.current-fragment {
-  color: #1b91ff; }
+  color: #1e6ec1; }
 
 /*********************************************
  * DEFAULT ELEMENT STYLES
